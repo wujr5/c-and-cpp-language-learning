@@ -17,18 +17,17 @@ C和C++编程语言学习 - 2015级
 ### 信安与计科7班（C++）
 
 1. 第一次课：[计科：week1 代码风格检查][]
-2. 第二次课：[][]
+2. 第二次课：[计科：week2 第二次课][]
 3. 第三次课：[计科：week3 第一次实验报告内容][]
-4. 第四次课：[计科：week4 选择题][]
-5. 第五次课：[][]
-6. 第六次课：[][]
+4. 第四次课：[计科：week4 选择题][]，[计科：week4 第二次实验内容][]
+5. 第五次课：[计科：week5 第三次实验报告][]
 
 [计科：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/2
-[]: 
+[计科：week2 第二次课]: https://github.com/wujr5/c-and-cpp-language-learning/issues/13
 [计科：week3 第一次实验报告内容]: https://github.com/wujr5/c-and-cpp-language-learning/issues/12
 [计科：week4 选择题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/9
-[]: 
-[]: 
+[计科：week4 第二次实验内容]: https://github.com/wujr5/c-and-cpp-language-learning/issues/14
+[计科：week5 第三次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/15
 
 
 ### 软件工程教务1班（C）
@@ -37,8 +36,7 @@ C和C++编程语言学习 - 2015级
 2. 第二次课：[软件：week2 问题反馈+扩展练习][]
 3. 第三次课：[软件：week3 问题反馈+扩展练习+实验报告][]
 4. 第四次课：[软件：week4 理论作业（2015-10-19 实验课结束后提交）][]，[软件：week4 问题反馈+扩展练习][]
-5. 第五次课：[软件：week5 实验问题反馈][]
-6. 第六次课：[软件：week6 实验题][]
+5. 第五次课：[软件：week5 实验问题反馈][]，[软件：week6 实验题][]
 
 
 [软件：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/1
