@@ -47,4 +47,36 @@ C和C++编程语言学习 - 2015级
 [软件：week5 实验问题反馈]: https://github.com/wujr5/c-and-cpp-language-learning/issues/10
 [软件：week6 实验题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/11
 
+## 仓库更新
+
+> 对合作者来说，就像直接操作自己的仓库一样，可以直接pull和push，以下给出教程
+
+第一步：克隆项目
+
+```bash
+git clone https://github.com/wujr5/c-and-cpp-language-learning.git
+cd c-and-cpp-language-learning
+```
+
+第二步：修改更新后提交
+
+```bash
+git add -A
+git commit -m 'your comment'
+```
+
+第三步：与远程仓库同步
+
+在push之前，这一步一定要做，很重要。
+
+```bash
+git pull origin master
+```
+
+第四步：push到远程仓库
+
+```bash
+git push origin master
+```
+
 
