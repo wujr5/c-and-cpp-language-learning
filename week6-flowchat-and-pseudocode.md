@@ -182,7 +182,7 @@ Have a simple presentation in the lab class on Friday (4 persons limited). And a
 **Notice that**
 
 1. The presentation is no more than 5 minutes and there will be 5 extra minutes for discussion.
-2. You should prepare much for it.
+2. You should prepare much for it. PPT is encouraged.
 3. First come, first get the opportunity.
 4. You can describe a algorithm you have learn, but you should make a majority of your classmates know what you are describing.
 5. You can also share with us your learning experience about C++, and give some advice about how to learn it well.
@@ -194,12 +194,12 @@ You can help others to solve any problems the will meet. Detailedly describe the
 
 **Notice that**
 
-1. it's no need to consult with others that I help you, you help you to get marks. You can simply send email to me and I will give you the marks. No worry about that, if you do have help others and spend a lot of time on it, you deserve the score.
+1. it's no need to consult with others that I help you, you help you to get marks. You can simply send email to me and I will give you the marks. No worry about that, if you do have helped others and spent a lot of time on it, you deserve the score.
 
 ### option 4: Personal Summary
 
 Write personal summary for yourself.
-List at least 10 problems that you have met in your learning in c language and describe the solution as well.
+List at least 10 problems that you have met in your learning in C++ language and describe the solution as well.
 
 **Notice that**
 
