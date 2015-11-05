@@ -16,7 +16,9 @@ C和C++编程语言学习 - 2015级
 
 ### 信安与计科7班（C++）
 
-1. 课程总览：[计科：实验课计划][]，[计科：实验课要求][]
+1. 课程总览：[计科：实验课计划][]
+2. 课程要求：[计科：实验课要求][]
+3. 课程反馈；[计科：实验课反馈][]
 2. 第一次课：[计科：week1 代码风格检查][]
 3. 第二次课：[计科：week2 课件][]
 4. 第三次课：[计科：week3 第一次实验报告][]
@@ -26,6 +28,7 @@ C和C++编程语言学习 - 2015级
 
 [计科：实验课计划]: https://github.com/wujr5/c-and-cpp-language-learning/issues/19
 [计科：实验课要求]: https://github.com/wujr5/c-and-cpp-language-learning/issues/20
+[计科：实验课反馈]: https://github.com/wujr5/c-and-cpp-language-learning/issues/21
 
 [计科：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/2
 [计科：week2 课件]: https://github.com/wujr5/c-and-cpp-language-learning/issues/13
