@@ -26,9 +26,9 @@ There is an example:
 
 ![1](https://cloud.githubusercontent.com/assets/8371330/10791003/6156338a-7dc1-11e5-8b7e-364f1a559db5.png)
 
-We can describe this question by this way rather than write a C program immediately:
+We can describe this question by this way rather than write a C++ program immediately:
 
-```
+```cpp
 main {
 	input two integers height and n
 	initialize answer = 0
@@ -98,7 +98,7 @@ May be you can not write out the problem, the only work you will do is write out
 
 ### 4.3 Assignment 2 (35pts) 
 
-Draw a flowchart from the following C++ language program which construct a bubble sort algorithm.
+Draw a flowchart from the following C++ language program which constructs a **bubble sort algorithm**.
 
 ```cpp
 #include <iostream>
