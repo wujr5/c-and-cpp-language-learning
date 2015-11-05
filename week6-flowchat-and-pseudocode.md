@@ -98,96 +98,62 @@ May be you can not write out the problem, the only work you will do is write out
 
 ### 4.3 Assignment 2 (35pts) 
 
-Draw a flowchart from the following C language program which instruct the movement of a robot going on patrol along the wall.
+Draw a flowchart from the following C++ language program which construct a bubble sort algorithm.
 
-```
-	#include <stdio.h>
+```cpp
+#include <iostream>
+using namespace std;
 
-/* this program is used for a robot to walk along
-   a wall next to him.
-*/
-
-/* Note that if the robot's eyes get something 
-   whose distance is less than 40cm, there must
-   be an obstacle(wall).
-*/
-const int SENSOR_DISTANCE = 40; // 40 cm
-
-/*
-  predifined methods:
-  1. void lookLeft() and void lookRight()
-  function: Let the robot to look at the left or right side.
-  2. void lookForward()
-  function: let the robot to look forward.
-  3. int getDistance()
-  function: get a distance from the eye to another.
-  object if there is one.
-  4. void moveStraight()
-  function: go straight for some distance.
-  5.int shutDown()
-  function: shut down the robot.
-*/
-
-
-
-int main() {
-  /* we assume that for the initial state, either 
-     the robot's left side or the right side is 
-     toward the wall.
-
-     wall = 0 means that the wall is at the left side
-     wall = 1 means that the wall is at the right side
-  */
-  int wall;
-
-  lookLeft();
-  if(getDistance() < SENSOR_DISTANCE) {
-    wall = 0;
-  } else {
-    lookRight();
-    wall = 1;
-  }
-
-  if(wall == 0) {
-    while(shutDown() != 1) {
-      moveStraight();
-      while(1) {
-        lookLeft();
-        if(getDistance() < SENSOR_DISTANCE) {
-          lookForward();
-          if(getDistance() < SENSOR_DISTANCE) {
-            turnRight();
-          } else {
-	    break;
-	  }
-        } else {
-	  turnLeft();
-        }
-      }
-    }
-  } else {
-    do {
-      moveStraight();
-      while(1) {
-        lookRight();
-        if(getDistance() < SENSOR_DISTANCE) {
-          lookForward();
-          if(getDistance() < SENSOR_DISTANCE) {
-            turnLeft();
-          } else {
-	    break;
-	  }
-        } else {
-	  turnRight();
-        }
-      }
-    } while (shutDown() != 1);
-  }
-
-
-  return 0;
+void print(int* pData, int count) {
+	for (int i = 0; i< count; i++) {
+		cout << pData[i] << " ";
+	}
+	cout << endl;
 }
 
+void BubbleSort(int* pData, int count) {
+    int temp;
+    for (int i = 1; i < count; i++) {
+    	bool flag = true;
+    	
+        for (int j = 0; j < count - i; j++) {
+            if (pData[j] > pData[j+1]) {
+            	temp = pData[j+1];
+                pData[j+1] = pData[j];
+                pData[j] = temp;
+                flag = false;
+            }
+        }
+        
+        if (flag) break;
+        
+        cout << "The "<< i <<" round:" << endl;
+        print(pData, count);
+        cout << "----------------------------" << endl;
+        
+    }
+}
+
+int main() {
+	int n;
+	int data[100];
+	
+    cout << "How many numbers you want to input ? (less than 100)" << endl;
+	cin >> n;
+	cout << "Please input " << n << "numbers, separating with space: " << endl;
+	
+	for (int i = 0; i < n; i++) {
+		cin >> data[i];
+	}
+	
+    BubbleSort(data, n);
+    
+    cout << "The sort result:" << endl;
+    
+    print(data, n);
+    
+    return 0;
+}
 ```
 
 ## 5 Extended Assignment (10pts)
