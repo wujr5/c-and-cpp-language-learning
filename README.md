@@ -21,6 +21,7 @@ C和C++编程语言学习 - 2015级
 3. 第三次课：[计科：week3 第一次实验报告内容][]
 4. 第四次课：[计科：week4 选择题][]，[计科：week4 第二次实验内容][]
 5. 第五次课：[计科：week5 第三次实验报告][]
+6. 第六次课：[计科：week6 第四次实验 程序流程图和伪代码]
 
 [计科：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/2
 [计科：week2 第二次课]: https://github.com/wujr5/c-and-cpp-language-learning/issues/13
@@ -28,6 +29,7 @@ C和C++编程语言学习 - 2015级
 [计科：week4 选择题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/9
 [计科：week4 第二次实验内容]: https://github.com/wujr5/c-and-cpp-language-learning/issues/14
 [计科：week5 第三次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/15
+[计科：week6 第四次实验 程序流程图和伪代码]: https://github.com/wujr5/c-and-cpp-language-learning/issues/18
 
 
 ### 软件工程教务1班（C）

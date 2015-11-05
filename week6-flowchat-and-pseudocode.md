@@ -1,4 +1,4 @@
-# week6 第三次实验 程序流程图和伪代码
+# week6 第四次实验 程序流程图和伪代码
 
 > 实验目的：当大家学习了程序的控制结构之后，代码就变得复杂起来。在这时，我们解决问题就需要有很严密的逻辑思维。程序流程图和伪代码就是帮助我们去描述我们解决问题的方法（也称为算法）的工具。本次实验在于让大家学习如何使用这些工具，这对大家以后的编程有很大的帮助。
 
@@ -15,9 +15,11 @@ There is an example:
 ![ab](https://cloud.githubusercontent.com/assets/8371330/10778410/11bec644-7d61-11e5-830d-548028f14db4.jpg)
 
 And this is the flowchart: 
+
 ![sample](https://cloud.githubusercontent.com/assets/8371330/10778656/52724c18-7d63-11e5-8b49-55f204fedefe.png)
 
 ## 2 Pseudocode (伪代码)
+
 Pseudocode is an informal high-level description of the operating principle of a computer program or other algorithm.
 
 > From wikipedia
@@ -46,6 +48,7 @@ main {
 Pseudocode is used to express your thought, you do not need to care about the grammar.
 
 ## 3 Pre Assignment
+
 Learn about Flowchart and Pseudocode.
 
 ## 4 Assignment (100pts)
@@ -60,7 +63,7 @@ Translate the following flowchart into Pseudocode
 
 #### Description
 
-Several surveys indicate that the taller you are, the higher you can climb the corporate ladder. At TALL Enterprises Inc. this "de facto standard" has been properly formalized: your boss is always at least as tall as you are. Furthermore, you can safely assume that your boss earns a bit more than you do. In fact, you can be absolutely sure that your immediate boss is the person who earns the least among all the employees that earn more than you and are at least as tall as you are. Furthermore, if you are the immediate boss of someone, that person is your subordinate, and all his subordinates are your subordinates as well. If you are nobody's boss, then you have no subordinates. As simple as these rules are, many people working for TALL are unsure of to whom they should be turning in their weekly progress report and how many subordinates they have. Write a program that will help in determining for any employee who the immediate boss of that employee is and how many subordinates they have. Quality Assurance at TALL have devised a series of tests to ensure that your program is correct. These test are described below.<br />
+Several surveys indicate that the taller you are, the higher you can climb the corporate ladder. At TALL Enterprises Inc. this "de facto standard" has been properly formalized: your boss is always at least as tall as you are. Furthermore, you can safely assume that your boss earns a bit more than you do. In fact, you can be absolutely sure that your immediate boss is the person who earns the least among all the employees that earn more than you and are at least as tall as you are. Furthermore, if you are the immediate boss of someone, that person is your subordinate, and all his subordinates are your subordinates as well. If you are nobody's boss, then you have no subordinates. As simple as these rules are, many people working for TALL are unsure of to whom they should be turning in their weekly progress report and how many subordinates they have. Write a program that will help in determining for any employee who the immediate boss of that employee is and how many subordinates they have. Quality Assurance at TALL have devised a series of tests to ensure that your program is correct. These test are described below.
 
 May be you can not write out the problem, the only work you will do is write out this program from the following flowchart(Since there are many methods to sort, so you can use one of them, the flowchart does not display in the flow chat, instead a dashed line).
 
@@ -152,19 +155,14 @@ int main() {
 
 ## 5 Extended Assignment (10pts)
 
-### option 1 
-
-Draw a flowchart  and write Pseudocode as well as a C language program for the following description.
+Draw a flowchart and write Pseudocode as well as a C++ language program for the following description.
 
 ![extend](https://cloud.githubusercontent.com/assets/8371330/10779095/44aeb464-7d67-11e5-8219-e1c28d8b8113.png)
-
-### option 2
-
-Simplify the logic in Assignment 2 and then draw a new flowchart and rewrite the C code.（Reduce at least one level of logic nesting）
 
 ## 6 Discussion，Cooperation and Summary (15pts)
 
 In this part, you will have some options, if you do more options, you will learn more and get more marks.
+
 **You should note this part in your report**
 
 ### option 1: Github Discussion
@@ -172,6 +170,7 @@ In this part, you will have some options, if you do more options, you will learn
 Comment at this issue and decribe a problem that you meet and how you solve detailedly.
 
 **Notice that** 
+
 1. you should not copy and paste your personal report simply.
 2. you should not write a very simple one and your comment will be deleted if you do that.
 3. you should not post meaningless questions. 
@@ -181,6 +180,7 @@ Comment at this issue and decribe a problem that you meet and how you solve deta
 Have a simple presentation in the lab class on Monday (4 persons limited). And after the presentation, everyone is encouraged to ask questions and you can get bonus by asking good questions.
 
 **Notice that**
+
 1. The presentation is no more than 5 minutes and there will be 5 extra minutes for discussion.
 2. You should prepare much for it.
 3. First come, first get the opportunity.
@@ -190,17 +190,18 @@ Have a simple presentation in the lab class on Monday (4 persons limited). And a
 You can help others to slove any problems the will meet. Detailedly decribe the quesion, the solution and your personal experience as well.
 
 **Notice that**
+
 1. it's no need to consult with others that I help you, you help you to get marks. You can simply send email to me and I will give you the marks.
 
 ### option 4: Personal Summary
 
- Write personal summary for yourself.
+Write personal summary for yourself.
 List at least 10 problems that you have met in your learning in c language and decribe the solution as well.
 
 **Notice that**
 1. you should not have ten very simple problems, you must let me know your learning method and also the method to solve problems.
 
-## 7 Report Template:
+## 7 Report Template
 
 There will be no Report Template this time which means it's all depends on yourself.
 
