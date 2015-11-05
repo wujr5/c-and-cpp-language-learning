@@ -56,13 +56,7 @@ Choose one question from soj.me in week6 in our course and then write the Pseudo
 
 ### 4.2 Assignment 1 (35pts) 
 
-#### option 1
-
 Translate the following flowchart into Pseudocode
-
-#### option 2
-
-Translate the following flowchart into Pseudocode and C programming language program.
 
 #### Description
 
