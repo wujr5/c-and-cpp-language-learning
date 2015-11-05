@@ -55,11 +55,11 @@ Learn about Flowchart and Pseudocode.
 
 ### 4.1 Assignment 0 (20pts)
 
-Choose one question from soj.me in week6 in our course and then write the Pseudocode.
+Choose one question of this week from soj.me in our course and then write the Pseudocode.
 
 ### 4.2 Assignment 1 (35pts) 
 
-Translate the following flowchart into Pseudocode
+Translate the following flowchart into Pseudocode, and write a C++ program according to your Pseudocode.
 
 #### Description
 
@@ -95,7 +95,7 @@ May be you can not write out the problem, the only work you will do is write out
 
 ### 4.3 Assignment 2 (35pts) 
 
-Draw a flowchart from the following C++ language program which constructs a **bubble sort algorithm**.
+Draw a flowchart and write a Pseudocode from the following C++ language program which constructs a **bubble sort algorithm**.
 
 ```cpp
 #include <iostream>
@@ -127,7 +127,6 @@ void BubbleSort(int* pData, int count) {
         cout << "The "<< i <<" round:" << endl;
         print(pData, count);
         cout << "----------------------------" << endl;
-        
     }
 }
 
@@ -153,13 +152,13 @@ int main() {
 }
 ```
 
-## 5 Extended Assignment (10pts)
+## 5 Extended 1: Assignment (10pts)
 
 Draw a flowchart and write Pseudocode as well as a C++ language program for the following description.
 
 ![extend](https://cloud.githubusercontent.com/assets/8371330/10779095/44aeb464-7d67-11e5-8219-e1c28d8b8113.png)
 
-## 6 Discussion，Cooperation and Summary (15pts)
+## 6 Extended 2: Discussion，Cooperation and Summary (15pts)
 
 In this part, you will have some options, if you do more options, you will learn more and get more marks.
 
@@ -167,38 +166,43 @@ In this part, you will have some options, if you do more options, you will learn
 
 ### option 1: Github Discussion
 
-Comment at this issue and decribe a problem that you meet and how you solve detailedly.
+Comment at this issue and describe a problem that you meet and how you solve it detailedly.
 
 **Notice that** 
 
 1. you should not copy and paste your personal report simply.
 2. you should not write a very simple one and your comment will be deleted if you do that.
 3. you should not post meaningless questions. 
+4. Show me in your report about your discussion on github with screenshot.
 
 ### option 2: Simple Presentation
 
-Have a simple presentation in the lab class on Monday (4 persons limited). And after the presentation, everyone is encouraged to ask questions and you can get bonus by asking good questions.
+Have a simple presentation in the lab class on Friday (4 persons limited). And after the presentation, everyone is encouraged to ask questions and you can get bonus by asking good questions.
 
 **Notice that**
 
 1. The presentation is no more than 5 minutes and there will be 5 extra minutes for discussion.
 2. You should prepare much for it.
 3. First come, first get the opportunity.
+4. You can describe a algorithm you have learn, but you should make a majority of your classmates know what you are describing.
+5. You can also share with us your learning experience about C++, and give some advice about how to learn it well.
+6. The theme of your presentation is very important, if you are not sure whether your theme is good or not, you can contact me for some advice.
 
 ### option 3: Helping others
 
-You can help others to slove any problems the will meet. Detailedly decribe the quesion, the solution and your personal experience as well.
+You can help others to solve any problems the will meet. Detailedly describe the question, the solution and your personal experience as well.
 
 **Notice that**
 
-1. it's no need to consult with others that I help you, you help you to get marks. You can simply send email to me and I will give you the marks.
+1. it's no need to consult with others that I help you, you help you to get marks. You can simply send email to me and I will give you the marks. No worry about that, if you do have help others and spend a lot of time on it, you deserve the score.
 
 ### option 4: Personal Summary
 
 Write personal summary for yourself.
-List at least 10 problems that you have met in your learning in c language and decribe the solution as well.
+List at least 10 problems that you have met in your learning in c language and describe the solution as well.
 
 **Notice that**
+
 1. you should not have ten very simple problems, you must let me know your learning method and also the method to solve problems.
 
 ## 7 Report Template
@@ -210,6 +214,7 @@ There will be no Report Template this time which means it's all depends on yours
 1. the report is the most important document for your project, you should pay more attention to it.
 2. you are supposed to write a report that is friendly to your 'users', which means that you need to consider about the typesetting, the logical structure of the content.
 3. There should contain one item, self grading that you should give a score to evaluate your job as well as a reason.
+4. You must summit a pdf of your report instead of doc or others.
 
 For example: [sinew](http://yejq.sinaapp.com/blog/sinew)
 
@@ -223,6 +228,7 @@ Process on is a good tool for drawing flowchart.
 ![2](https://cloud.githubusercontent.com/assets/8371330/10793052/37c34ee6-7dca-11e5-8620-bd1e6c113087.png)
 
 **Notice that:**
+
 13331314 means your student id.
 the first assignment need to name your file with your chosen problem id.
 

@@ -34,7 +34,6 @@ C和C++编程语言学习 - 2015级
 [计科：week5 第三次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/15
 [计科：week6 第四次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/18
 
-
 ### 软件工程教务1班（C）
 
 1. 第一次课：[软件：week1 代码风格检查][]
@@ -43,7 +42,6 @@ C和C++编程语言学习 - 2015级
 4. 第四次课：[软件：week4 理论作业][]，[软件：week4 问题反馈+扩展练习][]
 5. 第五次课：[软件：week5 实验问题反馈][]
 6. 第六次课：[软件：week6 实验题][]
-
 
 [软件：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/1
 [软件：week2 问题反馈+扩展练习]: https://github.com/wujr5/c-and-cpp-language-learning/issues/3
