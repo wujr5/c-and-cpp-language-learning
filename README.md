@@ -58,7 +58,7 @@ C和C++编程语言学习 - 2015级
 [软件：week5 实验问题反馈]: https://github.com/wujr5/c-and-cpp-language-learning/issues/10
 [软件：week6 实验题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/11
 [软件：week6 理论题]:https://github.com/wujr5/c-and-cpp-language-learning/issues/16
-[软件：week7 实验题]：https://github.com/wujr5/c-and-cpp-language-learning/issues/17
+[软件：week7 实验题]:https://github.com/wujr5/c-and-cpp-language-learning/issues/17
 
 ## 仓库更新
 
