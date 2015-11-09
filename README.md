@@ -49,6 +49,7 @@ C和C++编程语言学习 - 2015级
 4. 第四次课：[软件：week4 理论作业][]，[软件：week4 问题反馈+扩展练习][]
 5. 第五次课：[软件：week5 实验问题反馈][]
 6. 第六次课：[软件：week6 实验题][]
+7. 第七次课：[软件：week7 实验：c程序测试与断点调试][]
 
 [软件：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/1
 [软件：week2 问题反馈+扩展练习]: https://github.com/wujr5/c-and-cpp-language-learning/issues/3
@@ -59,6 +60,7 @@ C和C++编程语言学习 - 2015级
 [软件：week6 实验题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/11
 [软件：week6 理论题]:https://github.com/wujr5/c-and-cpp-language-learning/issues/16
 [软件：week7 实验题]:https://github.com/wujr5/c-and-cpp-language-learning/issues/17
+[软件：week7 实验：c程序测试与断点调试]: https://github.com/wujr5/c-and-cpp-language-learning/issues/17
 
 ## 仓库更新
 
