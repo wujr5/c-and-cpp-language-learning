@@ -12,6 +12,17 @@ C和C++编程语言学习 - 2015级
 [叶嘉祺]: https://github.com/ghostbody
 [魏传柳]: https://github.com/langzi989
 
+## 西西里在线评测系统
+计科班: http://soj.sysu.edu.cn/course_detail.php?course_id=160
+软件班: http://soj.sysu.edu.cn/course_detail.php?course_id=156
+
+## Yejq 在线评测系统
+地址：http://172.18.215.225:8080/
+开源代码仓库：https://github.com/ghostbody/Yejq-online-judge
+目前开发：
+1、c++版本后台评测系统
+2、在线编译器，包括个人文件管理、项目管理，在线调试等功能。
+
 ## 目录
 
 ### 信安与计科7班（C++）
