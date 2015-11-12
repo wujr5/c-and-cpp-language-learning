@@ -19,9 +19,12 @@ C和C++编程语言学习 - 2015级
 软件班: http://soj.sysu.edu.cn/course_detail.php?course_id=156
 
 ## Yejq 在线评测系统
+
 地址：http://172.18.215.225:8080/
 
 开源代码仓库：https://github.com/ghostbody/Yejq-online-judge
+
+谷歌风格在线检查：http://172.18.215.225:8080/compiler
 
 目前开发：
 
