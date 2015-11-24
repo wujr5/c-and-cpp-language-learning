@@ -12,6 +12,11 @@ C和C++编程语言学习 - 2015级
 [叶嘉祺]: https://github.com/ghostbody
 [魏传柳]: https://github.com/langzi989
 
+## FTP 地址
+ftp://172.18.182.75
+用户名：c_and_cpp
+密码:c_and_cpp
+
 ## 西西里在线评测系统
 
 计科班: http://soj.sysu.edu.cn/course_detail.php?course_id=160
