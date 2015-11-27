@@ -53,6 +53,9 @@ ftp://172.18.182.75
 8. 第五次课：[计科：week5 第三次实验报告][]
 9. 第六次课：[计科：week6 第四次实验报告][]，[计科：week6 第五次课总结][]
 10. 第七次课：[计科：week7 第五次实验报告][]，[计科：week7 第六次课总结 && 展示][]
+11. 期中考试：[计科：期中考试问题总结][]
+12. 第八次课：无
+13. 第九次课：[计科：week10 第六次实验报告][]，[计科：week10 问题反馈和额外任务]
 
 [计科：实验课计划]: https://github.com/wujr5/c-and-cpp-language-learning/issues/19
 [计科：实验课要求]: https://github.com/wujr5/c-and-cpp-language-learning/issues/20
@@ -69,6 +72,9 @@ ftp://172.18.182.75
 [计科：week6 第五次课总结]: https://github.com/wujr5/c-and-cpp-language-learning/issues/23
 [计科：week7 第五次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/25
 [计科：week7 第六次课总结 && 展示]: https://github.com/wujr5/c-and-cpp-language-learning/issues/26
+[计科：期中考试问题总结]: https://github.com/wujr5/c-and-cpp-language-learning/issues/30
+[计科：week10 第六次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/33
+[计科：week10 问题反馈和额外任务]: https://github.com/wujr5/c-and-cpp-language-learning/issues/34
 
 ### 软件工程教务1班（C）
 
