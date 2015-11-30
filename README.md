@@ -87,7 +87,7 @@ ftp://172.18.182.75
 7. 第七次课：[软件：week7 实验：c程序测试与断点调试][]，[软件：week7 问题反馈和讨论][]
 8. 期中考试：[软件：期中考试总结和机试答案][]
 9. 第八次课：[软件：week10 实验：c字符串和函数][], [软件：week10 选做实验：c语言小飞机游戏][], [软件：week10 问题反馈和额外任务][]
-10. 第十次课：[软件：课程设计1][]
+10.第十次课：[软件：课程设计1][]
 
 [软件：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/1
 [软件：week2 问题反馈+扩展练习]: https://github.com/wujr5/c-and-cpp-language-learning/issues/3
@@ -104,7 +104,7 @@ ftp://172.18.182.75
 [软件：week10 实验：c字符串和函数]: https://github.com/wujr5/c-and-cpp-language-learning/issues/29
 [软件：week10 选做实验：c语言小飞机游戏]: https://github.com/wujr5/c-and-cpp-language-learning/issues/31
 [软件：week10 问题反馈和额外任务]: https://github.com/wujr5/c-and-cpp-language-learning/issues/
-[软件: 课程设计1]: https://github.com/wujr5/c-and-cpp-language-learning/issues/35
+[软件：课程设计1]: https://github.com/wujr5/c-and-cpp-language-learning/issues/35
 
 软件班所有实验题：
 
