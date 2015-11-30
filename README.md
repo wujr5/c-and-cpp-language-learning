@@ -61,6 +61,7 @@ ftp://172.18.182.75
 11. 期中考试：[计科：期中考试问题总结][]
 12. 第八次课：无
 13. 第九次课：[计科：week10 第六次实验报告][]，[计科：week10 问题反馈和额外任务]
+14. 第十次课：[计科：week11 自编选择题][]
 
 [计科：实验课计划]: https://github.com/wujr5/c-and-cpp-language-learning/issues/19
 [计科：实验课要求]: https://github.com/wujr5/c-and-cpp-language-learning/issues/20
@@ -80,6 +81,7 @@ ftp://172.18.182.75
 [计科：期中考试问题总结]: https://github.com/wujr5/c-and-cpp-language-learning/issues/30
 [计科：week10 第六次实验报告]: https://github.com/wujr5/c-and-cpp-language-learning/issues/33
 [计科：week10 问题反馈和额外任务]: https://github.com/wujr5/c-and-cpp-language-learning/issues/34
+[计科：week11 自编选择题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/39
 
 ### 软件工程教务1班（C）
 
