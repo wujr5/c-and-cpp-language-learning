@@ -95,6 +95,7 @@ ftp://172.18.182.75
 8. 期中考试：[软件：期中考试总结和机试答案][]
 9. 第八次课：[软件：week10 实验：c字符串和函数][], [软件：week10 选做实验：c语言小飞机游戏][], [软件：week10 问题反馈和额外任务][]
 10. 第十次课：[软件：课程设计1][], [软件：第十周讨论（主要是string.h）和问题反馈][]
+11. 第十一次课：[软件：第十二周问题反馈][], [软件：课程项目][], [软件：终极理论题][], [软件：吹水贴][]
 
 [软件：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/1
 [软件：week2 问题反馈+扩展练习]: https://github.com/wujr5/c-and-cpp-language-learning/issues/3
@@ -113,6 +114,10 @@ ftp://172.18.182.75
 [软件：week10 问题反馈和额外任务]: https://github.com/wujr5/c-and-cpp-language-learning/issues/
 [软件：课程设计1]: https://github.com/wujr5/c-and-cpp-language-learning/issues/35
 [软件：第十周讨论（主要是string.h）和问题反馈]: https://github.com/wujr5/c-and-cpp-language-learning/issues/36
+[软件：第十二周问题反馈]: https://github.com/wujr5/c-and-cpp-language-learning/issues/42
+[软件：课程项目]: https://github.com/wujr5/c-and-cpp-language-learning/issues/41
+[软件：终极理论题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/44
+[软件：吹水贴]: https://github.com/wujr5/c-and-cpp-language-learning/issues/43
 
 软件班所有实验题：
 
@@ -121,14 +126,17 @@ ftp://172.18.182.75
 3. 实验三：[断点调试][]
 4. 实验四：[C字符串与函数][]
 5. 附加实验五：[C语言小飞机游戏][]
-6. 实验六：[链表][]
+6. 附加实验六：[链表：深度理解指针][]
+7. 课程设计：[面向过程程序设计：成绩管理系统][]
 
 [格式化输出和数学函数]:https://github.com/wujr5/c-and-cpp-language-learning/issues/4
 [程序流程图与伪代码]:https://github.com/wujr5/c-and-cpp-language-learning/issues/11
 [断点调试]:https://github.com/wujr5/c-and-cpp-language-learning/issues/17
 [C字符串与函数]:https://github.com/wujr5/c-and-cpp-language-learning/issues/29
 [C语言小飞机游戏]:https://github.com/wujr5/c-and-cpp-language-learning/issues/31
-[链表]:https://github.com/wujr5/c-and-cpp-language-learning/issues/35
+[链表：深度理解指针]:https://github.com/wujr5/c-and-cpp-language-learning/issues/35
+[面向过程程序设计：成绩管理系统]:https://github.com/wujr5/c-and-cpp-language-learning/issues/41
+
 
 ## 仓库更新
 
