@@ -1,0 +1,48 @@
+﻿# 第十周理论题设计
+
+标签（空格分隔）： 未分类
+
+---
+
+1. What's NOT the benefits of function ?
+   A. Divide and conquer
+   B. Manageable program development
+   C. Avoid code repetition
+   D. Show more internal details
+
+    Ans: D. One of the key of function is abstraction, for it hide internal details so that we can focus on seperate parts.
+    
+
+
+2. void fun(int n,double x) {…}
+If the following variables are defined and assigned, which is the legit invoking of the function fun ?________。
+A. fun(int y,double m)　　　　　B. k=fun(10,12.5);  
+C. fun(x,n); 　　　　　　　　　　D.void fun(n,x);
+ANS：C
+
+    Void means no return values, and the invoking can only be a function statement. B is wrong. When calling a function, variable type and function type is not required. So A and D are wrong. 
+    
+3. What's the output of the following program?
+
+    int d=1;
+fun (int p)
+{
+    int d=5;
+    d+=p++;
+    printf("%d",d);
+}
+main()
+{
+    int a=3;
+    fun(a);
+    d+=a++;
+    printf("%d\n",d);
+}
+
+A.8 4 　　　B. 9 9　　　 C. 9 5   　　　  D. 4 4
+
+Ans：B p++ == 3 d in the function equals to  5 + 3 ==8. In the main function, a=3, d equals to 1+3==4.
+
+
+
+
