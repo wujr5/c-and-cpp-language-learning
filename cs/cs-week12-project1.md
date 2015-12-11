@@ -53,7 +53,7 @@ You can set a maximum length of the snake, if the player's snake reach that, the
 
 After the player win the game, you should present a win-game interface fot the player, so that he knows what happens. At the same time, he can choose exit the game or restart the game.
 
-#### 3.2.3 When Will the Player Lost the Game
+#### 3.2.3 When Will the Player Lose the Game
 
 1. The snake hits its body
 2. The snake hits the wall
@@ -65,6 +65,7 @@ After the player lose the game, you should present a lose-game interface fot the
 1. Record how many steps the snake have walked, present it bellow the hints.
 2. Automatic snake: the snake can automatic move, the press of key can only change its direction
 3. Degrees of difficulty: 
+	1. kdk
 
 ## 4 Report Template (20pts)
 
