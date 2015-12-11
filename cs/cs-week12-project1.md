@@ -90,7 +90,20 @@ Write down some questions you encountered and describe how you solved it.
 
 Write down what have you gained from this project. If you do not gain anything from it, I felt sorry for it and I want to know the reasons.
 
-## 5 Bonuses
+### 4 Bonuses
+
+Show me what bonuses you have finished.
+
+## 5 Development Advice
+
+**Development Process**
+
+**Step1:** Establish develop environment. Using provided code, run it in your computer
+**Step2:** Complete the base functions. Like functions for go up, go down, go right, go left.
+**Step3:** Add advanced functions. Like judge whether winning the game or not, losing the game or not
+**Step4:** Add extended functions. Like automatic moving, different levels.
+
+## 6 Bonuses
 
 1. Show me you have used the knowledge you have learned in [lab1][] in your report. **(2pts)**
 2. Show me you have used the knowledge you have learned in [lab2][] in your report. **(2pts)**
@@ -104,3 +117,7 @@ Write down what have you gained from this project. If you do not gain anything f
 [lab4]: https://github.com/wujr5/c-and-cpp-language-learning/issues/18
 [lab5]: https://github.com/wujr5/c-and-cpp-language-learning/issues/25
 [lab6]: https://github.com/wujr5/c-and-cpp-language-learning/issues/33
+
+## 7 Attachment
+
+[framework code](http://www.wujiarong.com/code/snake.tar.gz)
