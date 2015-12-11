@@ -63,7 +63,7 @@ ftp://172.18.182.75
 13. 第九次课：[计科：week10 第六次实验报告][]，[计科：week10 问题反馈和额外任务]
 14. 第十次课：[计科：week11 自编选择题][]
 15. 第十一次课：[计科：week11 Linux and GDB][]
-16. 第十二次课：[计科：week12 project1 The Snake Game][]
+16. 第十二次课：[计科：week12 project1 The Snake Game][]，[计科：project1问题反馈][]
 
 [计科：实验课计划]: https://github.com/wujr5/c-and-cpp-language-learning/issues/19
 [计科：实验课要求]: https://github.com/wujr5/c-and-cpp-language-learning/issues/20
@@ -86,7 +86,7 @@ ftp://172.18.182.75
 [计科：week11 自编选择题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/39
 [计科：week11 Linux and GDB]: https://github.com/wujr5/c-and-cpp-language-learning/issues/40
 [计科：week12 project1 The Snake Game]: https://github.com/wujr5/c-and-cpp-language-learning/issues/37
-
+[计科：project1问题反馈]: https://github.com/wujr5/c-and-cpp-language-learning/issues/45
 ### 软件工程教务1班（C）
 
 1. 第一次课：[软件：week1 代码风格检查][]
