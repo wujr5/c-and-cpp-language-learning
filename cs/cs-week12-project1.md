@@ -9,10 +9,8 @@
 > The Snake concept comes in two major variants:
 
 1. In the first, which is most often a two-player game, there are multiple snakes on the playfield. Each player attempts to block the other so he or she runs into an existing trail and loses. Surround for the Atari 2600 is an example of this type. The Light Cycles segment of the Tron arcade game is a single-player version, where the other "snakes" are AI controlled.
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Matopeli_telmac_1800.JPG/330px-Matopeli_telmac_1800.JPG)
 
 2. In the second variant, a sole player attempts to eat apples by running into them with the head of the snake. Each object eaten makes the snake longer, so maneuvering is progressively more difficult. Examples: Nibbler, Snake Byte.
-![](https://upload.wikimedia.org/wikipedia/en/0/04/Snake_trs-80.jpg)
 
 ## 2 Requirement
 
@@ -36,7 +34,7 @@ Like the following picture. If you want to make some changes, just do it !
 
 ![image](https://cloud.githubusercontent.com/assets/7693440/11754978/2ac75f4c-a08a-11e5-91d7-77ee38fe0e37.png)
 
-### 3.2 Requirement
+### 3.2 Demand
 
 #### 3.2.1 How to Play Your Game (30pts)
 
@@ -120,4 +118,5 @@ Show me what bonuses you have finished.
 
 ## 7 Attachment
 
-[framework code](http://www.wujiarong.com/code/snake.tar.gz)
+1. [framework code](http://www.wujiarong.com/code/snake.tar.gz)
+2. Vedio in ftp
