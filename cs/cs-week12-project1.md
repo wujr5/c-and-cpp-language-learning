@@ -74,15 +74,15 @@ After the player lose the game, you should present a lose-game interface fot the
 
 Template like that:
 
-### 1 Deploy
+### (1) Deploy
 
 Here discribe how to run your game and discribe the operating environment.
 
-### 2 Pseudocode and Flowchart
+### (2) Pseudocode and Flowchart
 
 Write down the pseudocode and flowchart of your game, just use the knowledge you have learned in [lab4][]
 
-### 3 Feelings and Experimences
+### (3) Feelings and Experimences
 
 I concern about how you feel and how you make progress when you finish your work step by step.
 
@@ -90,7 +90,7 @@ Write down some questions you encountered and describe how you solved it.
 
 Write down what have you gained from this project. If you do not gain anything from it, I felt sorry for it and I want to know the reasons.
 
-### 4 Bonuses
+### (4) Bonuses
 
 Show me what bonuses you have finished.
 
