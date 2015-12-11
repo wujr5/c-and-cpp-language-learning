@@ -28,11 +28,19 @@ GDB. Just watch the video of introduction of gdb. To know more detail usage of g
 
 ![](http://ww1.sinaimg.cn/large/ed796d65gw1eytqdfdwosj21er0u0dmb.jpg)
 
-## 3 Detail Documents
+## 3 Detail Documents (80pts)
 
-### 3.1 
+### 3.1 User Interface
 
-## 4 Report Template
+Like the following picture. If you want to make some changes, just do it !
+
+![image](https://cloud.githubusercontent.com/assets/7693440/11754978/2ac75f4c-a08a-11e5-91d7-77ee38fe0e37.png)
+
+## 4 Report Template (20pts)
+
+> Mind that software = program + data + document, and here the document is your report, so I suggest that you should pay more attention to this part if you want to get higher scores.
+
+### 4.1 
 
 ## 5 Bonuses
 
