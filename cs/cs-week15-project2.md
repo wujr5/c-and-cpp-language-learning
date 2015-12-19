@@ -6,19 +6,19 @@ Final project is our the last project. There are four options for you guys to ch
 
 ### 1.1 Overview
 
-I think many students did not do your work well in sicily before, or maybe some students did finish the every weeks' subject in sicily but they were not familiar with the relative knowledge. Because of that, this option is called to my mind. I hope most of your guys have a good look of the preview primer knowledge of C++.
+I think many students did not do your work well in sicily before, or maybe some students did finish the every weeks' subject in sicily but they were not familiar with the relative knowledge. Because of that, this option is called to my mind. I hope most of your guys have a good look of the primer knowledge of C++.
 
 ### 1.2 Requirements (100pts)
 
 1. Finish the subjects that you have not completed in sicily, or do it again in order to review relative knowledge.
 2. Choose 3 subjects in every weeks' homework. Analyze it and write down the pseudocode for every subject you have chose. At the same time, you should summarize it with writing down what konwledge does this subject want to investigate. Please answer all of this in your report.**(80pts)**
-3. Write an essay about what have you gained in this semester, and your understanding of C++ and talk about the procedure-oriented thinking.**(20pts)**
+3. Write an essay about what have you gained in this semester, and your understanding of C++ and talk about the design function protopyte procedure-oriented thinking.**(20pts)**
 
 ### 1.3 Report template
 
 > ### Final project
 > #### 1 简介
-> Brief introduction of your project
+> Brief introduction of you and your project.
 > #### 2 题目总结和分析
 > ##### 2.1 第一周题目分析
 > **1000**
@@ -47,6 +47,75 @@ cs_final_project_option1_学号_姓名.pdf
 待定。
 
 ## 2 Option 2: list.h
+
+### 2.1 Overview
+
+链表是一种比较重要的数据类型。大家应该听说过这样的一种说法，程序 = 语言 + 数据结构 + 算法。可能大家要区分一下数据类型和数据结构的概念。我们到目前为止，学习的唯一的数据类型可能就是数组了。数据类型呢，就是平时熟练运用的int, float, double, char之类的了。
+
+下面是C++数据类型的总结。
+
+**C++数据类型**
+
+* 基本类型
+	* 整型
+		* 短整形(short int)
+		* 整型(int)
+		* 长整型(long int)
+	* 字符型(char)
+	* 浮点型
+		* 单精度类型(float)
+		* 双精度类型(double)
+		* 长双精度类型(long double)
+	* 布尔型(bool)
+	* 空类型(void)
+* 非基本类型
+	* 枚举类型(enum)
+	* 数组类型(type[])
+	* 结构体类型(struct)
+	* 联合体类型(union)
+	* 类类型(class)
+	* type *
+* 指针类型
+
+数据结构是计算机存储、组织数据的方式。数据结构是指相互之间存在一种或多种特定关系的数据元素的集合。
+
+> from 百度百科
+
+列举一下常用的数据结构。
+
+**数组**
+在程序设计中，为了处理方便， 把具有相同类型的若干变量按有序的形式组织起来。这些按序排列的同类数据元素的集合称为数组。在C语言中， 数组属于构造数据类型。一个数组可以分解为多个数组元素，这些数组元素可以是基本数据类型或是构造类型。因此按数组元素的类型不同，数组又可分为数值数组、字符数组、指针数组、结构数组等各种类别。
+
+**栈**
+是只能在某一端插入和删除的特殊线性表。它按照先进后出的原则存储数据，先进入的数据被压入栈底，最后的数据在栈顶，需要读数据的时候从栈顶开始弹出数据（最后一个数据被第一个读出来）。
+
+**队列**
+一种特殊的线性表，它只允许在表的前端（front）进行删除操作，而在表的后端（rear）进行插入操作。进行插入操作的端称为队尾，进行删除操作的端称为队头。队列是按照“先进先出”或“后进后出”的原则组织数据的。队列中没有元素时，称为空队列。
+
+**链表**
+是一种物理存储单元上非连续、非顺序的存储结构，它既可以表示线性结构，也可以用于表示非线性结构，数据元素的逻辑顺序是通过链表中的指针链接次序实现的。链表由一系列结点（链表中每一个元素称为结点）组成，结点可以在运行时动态生成。每个结点包括两个部分：一个是存储数据元素的数据域，另一个是存储下一个结点地址的指针域。
+
+**树**
+是包含n（n>0）个结点的有穷集合K，且在K中定义了一个关系N，N满足 以下条件：
+（1）有且仅有一个结点 K0，他对于关系N来说没有前驱，称K0为树的根结点。简称为根（root）。　 （2）除K0外，K中的每个结点，对于关系N来说有且仅有一个前驱。
+（3）K中各结点，对关系N来说可以有m个后继（m>=0）。
+
+**图**
+图是由结点的有穷集合V和边的集合E组成。其中，为了与树形结构加以区别，在图结构中常常将结点称为顶点，边是顶点的有序偶对，若两个顶点之间存在一条边，就表示这两个顶点具有相邻关系。
+
+**堆**
+在计算机科学中，堆是一种特殊的树形数据结构，每个结点都有一个值。通常我们所说的堆的数据结构，是指二叉堆。堆的特点是根结点的值最小（或最大），且根结点的两个子树也是一个堆。
+散列表
+
+若结构中存在关键字和K相等的记录，则必定在f(K)的存储位置上。由此，不需比较便可直接取得所查记录。称这个对应关系f为散列函数(Hash function)，按这个思想建立的表为散列表。
+
+### 2.2 Requirement(100pts)
+
+### 2.3 Report template
+
+### 2.4 Submit
+
+### 2.5 Deadline
 
 ## 3 Option 3: Agender
 
