@@ -100,6 +100,7 @@ ftp://172.18.182.75
 9. 第八次课：[软件：week10 实验：c字符串和函数][], [软件：week10 选做实验：c语言小飞机游戏][], [软件：week10 问题反馈和额外任务][]
 10. 第十次课：[软件：课程设计1][], [软件：第十周讨论（主要是string.h）和问题反馈][]
 11. 第十一次课：[软件：第十二周问题反馈][], [软件：课程项目][], [软件：终极理论题][], [软件：吹水贴][]
+12. 第十二次课：[软件：第十二周 动态分配内存（自学）][]
 
 [软件：week1 代码风格检查]: https://github.com/wujr5/c-and-cpp-language-learning/issues/1
 [软件：week2 问题反馈+扩展练习]: https://github.com/wujr5/c-and-cpp-language-learning/issues/3
@@ -122,6 +123,7 @@ ftp://172.18.182.75
 [软件：课程项目]: https://github.com/wujr5/c-and-cpp-language-learning/issues/41
 [软件：终极理论题]: https://github.com/wujr5/c-and-cpp-language-learning/issues/44
 [软件：吹水贴]: https://github.com/wujr5/c-and-cpp-language-learning/issues/43
+[软件：第十二周 动态分配内存（自学）]: https://github.com/wujr5/c-and-cpp-language-learning/issues/46
 
 软件班所有实验题：
 
