@@ -222,12 +222,72 @@ cs_final_project_option2_学号_姓名.zip
 
 你准备好了吗？
 
-### 3.1 Requirement(100pts)
+### 3.1 Requirement(70pts)
 
-### 3.2
+#### 3.1.1 界面
 
-## 4 Option 4: Tetris
+1. 对界面无要求，命令行界面即可。当然，如果可以做到更好，当然鼓励。
+2. 类似于ubuntu下面的terminal。
+3. 要求实现相关命令。就像terminal中，ls命令是列出当前文件夹的内容。EduPlus需要你实现EduPlus的命令。这就需要你能够识别到底用户输入了什么命令。
 
-## 5 At Last 
+#### 3.1.2 功能
+
+**数据文件**
+
+对于EduPlus，你应该维护三个文件。
+
+```cpp
+students_info.txt
+students_grades.txt
+students_courses.txt
+```
+
+例子：
+
+**students_info.txt**
+
+注意，对students_info.txt文件来说学号是唯一的。也就是不能同时存在相同学号的两条记录。
+
+```cpp
+15551111 张三 1997.07.01 18812341234
+15551112 李四 1997.07.02 18812341235
+```
+
+**students_grades.txt**
+
+```cpp
+15551111 {"C++ 程序设计": 95} {}
+```
+
+**命令行模块**
+
+1. 实现EduPlus的命令读取功能
+2. 能识别正确命令和错误命令
+3. 根据对应的命令执行对应的操作
+
+具体命令：
+
+* insert 学号 姓名 出生年月 联系方式
+
+比如：insert 15551111 张三 1997.07.01 18812341234
+
+* delete 学号
 
 
+**数据操作模块**
+
+
+
+**数据查询模块**
+
+
+#### 3.1.3 提示
+
+### 3.2 Report Template (30pts)
+
+### 3.3 Submit
+
+```cpp
+cs_final_project_option3_学号_姓名.zip
+	|-- // add your file here
+```
