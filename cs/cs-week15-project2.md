@@ -38,8 +38,12 @@ Your pseudocode...
 ### 1.4 Submit
 
 Please name after the template below.
+
+> 虽然只有一个文件，但是也请将打包压缩
+
 ```cpp
-cs_final_project_option1_学号_姓名.pdf
+cs_final_project_option1_学号_姓名.zip
+	|-- report.pdf
 ```
 
 ### 1.5 Deadline
@@ -123,7 +127,7 @@ cs_final_project_option1_学号_姓名.pdf
 
 了解链表组成，自学关于链表的数据结构。
 
-#### 2.2.2 实现simpleList.h
+#### 2.2.2 实现simpleList.cpp （70pts）
 
 要求实现simpleList.h头文件的函数。
 
@@ -195,9 +199,24 @@ listtype * list_sort(listtype * list);
 
 ### 2.3 Report template
 
+> ### Final project
+> #### 1 简介
+> Brief introduction of you and your project.
+> #### 2 函数功能介绍
+> 类似软件文档，介绍你的函数的用法和功能等
+> #### 3 心得体会
+> 你的心得体会
+
+
 ### 2.4 Submit
 
-### 2.5 Deadline
+只需要提交simpleList.cpp文件
+
+```cpp
+cs_final_project_option2_学号_姓名.zip
+	|-- simpleList.cpp
+	|-- report.pdf
+```
 
 ## 3 Option 3: Agender
 
