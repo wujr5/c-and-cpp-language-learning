@@ -46,10 +46,6 @@ cs_final_project_option1_学号_姓名.zip
 	|-- report.pdf
 ```
 
-### 1.5 Deadline
-
-待定。
-
 ## 2 Option 2: simpleList.h
 
 ### 2.1 Overview
@@ -197,7 +193,7 @@ bool list_empty(listtype * list);
 listtype * list_sort(listtype * list);
 ```
 
-### 2.3 Report template
+### 2.3 Report template （30pts）
 
 > ### Final project
 > #### 1 简介
@@ -218,14 +214,16 @@ cs_final_project_option2_学号_姓名.zip
 	|-- report.pdf
 ```
 
-## 3 Option 3: Agender
+## 3 Option 3: EduPlus
+
+目前中山大学合并了信科院、软件学院、移动信息工程学院，组成新的数据科学与计算机学院。现在教务处面临着学生的教务教学信息管理的问题，比如录入学生的基本信息（姓名，学号，）
 
 ### 3.1 Requirement(100pts)
 
-### 
+### 3.2
 
 ## 4 Option 4: Tetris
 
-## 5 At Last
+## 5 At Last 
 
-Thank all of you cooperate with me at this semester. It is very a good time when I prepare the experiments for the class.
+
