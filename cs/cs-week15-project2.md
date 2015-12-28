@@ -1,6 +1,6 @@
 # week15 Final Project
 
-Final project is our the last project. There are four options for you guys to choose. But of course, if you are able to do more, just do it !
+Final project is our the last project. There are two options for you guys to choose. But of course, if you are able to do more, just do it !
 
 ## 1 Option 1: Review
 
@@ -214,7 +214,13 @@ cs_final_project_option2_学号_姓名.zip
 	|-- report.pdf
 ```
 
-## 3 Option 3: EduPlus
+提交到ftp上的相应目录上。
+
+## 3 Deadline
+
+C++程序设计期末考试之前。
+
+## 3 Option 3: EduPlus (弃用)
 
 目前中山大学合并了信科院、软件学院、移动信息工程学院，组成新的数据科学与计算机学院。现在教务处面临着学生的教务教学信息管理的问题，比如录入学生的基本信息（姓名，学号，身份证信息，家庭住址，联系方式，宿舍号等等）、记录成绩（记录学生每一科目的成绩）、学籍信息记录（已经完成了哪些学业、选课记录等）等。
 
