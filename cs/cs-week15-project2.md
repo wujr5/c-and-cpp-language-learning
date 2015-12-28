@@ -46,7 +46,7 @@ cs_final_project_option1_学号_姓名.pdf
 
 待定。
 
-## 2 Option 2: list.h
+## 2 Option 2: simpleList.h
 
 ### 2.1 Overview
 
@@ -123,12 +123,74 @@ cs_final_project_option1_学号_姓名.pdf
 
 了解链表组成，自学关于链表的数据结构。
 
-#### 2.2.2 实现list.h
+#### 2.2.2 实现simpleList.h
 
-要求实现list.h头文件的函数。
+要求实现simpleList.h头文件的函数。
 
 ```cpp
+// 实现一个简单的单向链表
 
+typedef struct node_type {
+	int data; // 节点数据
+	struct node_type *next; // 指向下一个node_type类型数据
+} nodetype;
+
+typedef struct list_type {
+	nodetype *head; // 链表头节点
+	int length; // 指针长度
+} listtype;
+
+// 描述：初始化并生成链表，注意，返回的是listtype类型，代表链表的头部，还有长度记录
+// 输入：无
+// 返回：返回listtype类型的数据的指针（提示：需要动态生成数据，使用new操作符）
+// 例子：无
+listtype * list_create(void);
+
+// 描述：打印链表内容
+// 输入：链表listtype类型指针，代表一个链表
+// 返回：无
+// 输出：打印输出链表内容
+// 例子：如果链表内容为：1->2->3->4,则打印输出"1->2->3->4"（不包括括号）
+void list_print(listtype *list);
+
+// 描述：向链表内插入值
+// 输入：listtype指针，插入位置，需要插入的数据
+// 返回：返回插入数据后的listtype类型指针
+// 例子：list1：1->2->3，调用list_insert(list1, 0, 0)。结果：list1: 0->1->2->3。
+// 提示：注意边界情况，如果插入的位置非法（负数、大于length等，则什么都不干）。插入的是动态创建nodetype节点
+listtype * list_insert(listtype *list, int location, int data);
+
+// 描述：删除链表的值
+// 输入：listtype指针，删除的数据的位置
+// 返回：返回被删除的节点的data
+// 例子：list1：1->2->3，调用list_delete(list1, 1)，那么list1变为：1->3
+// 提示：注意边界情况，如果删除的位置非法（负数、大于length等，则什么都不干）。删除的nodetype节点。
+int list_delete(listtype *list, int location);
+
+// 描述：清空链表
+// 输入：需要清空的链表指针
+// 返回：清空后的链表指针
+// 提示：由于nodetype节点是通过new动态创建的，因此，清空链表的时候，需要通过delete删除。避免内存泄漏的发生。
+listtype* list_clear(listtype * list);
+
+// 描述：返回链表的长度
+// 输入：链表指针
+// 返回：链表长度
+int list_length(listtype * list);
+
+
+// 描述：判断链表是否为空
+// 输入：链表指针
+// 返回：如果链表为空，返回true，否则false
+bool list_empty(listtype * list);
+
+
+// 描述：将输入的链表进行排序
+// 输入：链表指针
+// 返回：排序后的链表指针
+// 要求：从链表头开始按照升序排序
+// 例子：list1: 1->4->5->2，list_sort(list1): 1->2->4->5
+listtype * list_sort(listtype * list);
 ```
 
 ### 2.3 Report template
@@ -138,6 +200,10 @@ cs_final_project_option1_学号_姓名.pdf
 ### 2.5 Deadline
 
 ## 3 Option 3: Agender
+
+### 3.1 Requirement(100pts)
+
+### 
 
 ## 4 Option 4: Tetris
 
